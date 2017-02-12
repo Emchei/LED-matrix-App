@@ -2,5 +2,4 @@
 This an experimental app for a research and design project with the aim of controlling content generated from an Altera FPGA and displayed on a LED matrix.
 
 
-![Alt text](/relative/path/to/dsd.png?raw=true "Optional Title")
-![Alt desc](LED-matrix-App/dsd.png)
+![logo](https://github.com/Emchei/LED-matrix-App/master/dsd.png)
