@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sun Mar 26 16:28:45 2017
+Quartus Prime Version : 16.1.2 Build 203 01/18/2017 SJ Lite Edition
+Revision Name : esp8266_driver_struct
+Top-level Entity Name : esp8266_driver_struct
+Family : Cyclone V
+Device : 5CEBA4F23C7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,017 / 18,480 ( 6 % )
+Total registers : 2727
+Total pins : 13 / 224 ( 6 % )
+Total virtual pins : 0
+Total block memory bits : 23,552 / 3,153,920 ( < 1 % )
+Total RAM Blocks : 5 / 308 ( 2 % )
+Total DSP Blocks : 0 / 66 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 4 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
