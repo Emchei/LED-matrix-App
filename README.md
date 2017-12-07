@@ -8,8 +8,8 @@ This an experimental app for a research and design project with the aim of contr
   This project was created as an example for the future electrical/electronic engineer student of
 Fontys Hogechool, therefore the VHDL source code and Top level Architecture design were excluded from the repository.<enter>  
 
-## System Architecture
-![Image](https://github.com/Emchei/LED-matrix-App/blob/master/dsd.png)
+## Abstract System Architecture
+![Image](https://github.com/Emchei/LED-matrix-App/blob/master/Abstract%20Top%20level%20View.png)
 
 ## Testing FPGA and App responds
 ![Alt Text](https://github.com/Emchei/LED-matrix-App/blob/master/giphy-downsized-large.gif)
