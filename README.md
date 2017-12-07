@@ -3,7 +3,7 @@ This an experimental app for a research and design project with the aim of contr
  
   **PLEASE NOTE :** This repository contains only the source code for the LED matrix app. There are no VHDL source code for the Altera Cyclone V FPGA.<enter>
  
-  However, there is only the synthesis folder generated from the FPGA during deployment. This repository only serve as an external storage space.<enter>
+  However, there is only the synthesis folder generated from the FPGA during deployment. This repository only serves as an external storage for working version.<enter>
  
   This project was created as an example for the future electrical/electronic engineer student of
 Fontys Hogechool, therefore the VHDL source code and Top level Architecture design were excluded from the repository.<enter>  
