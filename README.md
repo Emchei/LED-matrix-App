@@ -16,7 +16,7 @@ Fontys Hogechool, therefore the VHDL source code and Top level Architecture desi
 
 
 
-## Showcasing the application on Fontys Open day
+## Showcasing the application on Fontys Open Day
 Please click on the image below to watch the video<enter>
     
 [![Showcase of application on Fontys Open day](https://img.youtube.com/vi/zbzleNOYq60/0.jpg)](https://www.youtube.com/watch?v=zbzleNOYq60 "Test Leap motion as midi device at ontdekfabriek Eindhoven")
